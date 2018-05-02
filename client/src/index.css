@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI,Verdana,Helvetica,Sans-Serif;
+}
+
+.ui.container{
+  padding-top: 55px;
+}
+
+.ui.button.icon {
+    /*background: transparent;*/
+    padding: 2px;
+    border: 1px;
+    border-color: cadetblue;
+}
+
+.td-nowrap {
+  white-space: nowrap;
+}
